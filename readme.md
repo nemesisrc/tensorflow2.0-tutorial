@@ -2,7 +2,7 @@
 
 **A comprehensive guide to mastering TensorFlow 2.0 for deep learning!**  
 
-![TensorFlow Logo](https://www.tensorflow.org/images/tf_logo_social.png) *(Replace with actual path to your logo/image)*  
+![TensorFlow Logo](https://www.tensorflow.org/images/tf_logo_social.png)  
 
 ---
 
